@@ -1,11 +1,12 @@
-4bbea67 (HEAD -> main, origin/main, origin/HEAD) Task 2.2 with updated log.txt
+ba281bd (HEAD -> main, origin/main, origin/HEAD) Task 2.3
+4bbea67 Task 2.2 with updated log.txt
 42def6f Task 2.2
 07fed2b Task 2.1
 02d3ba9 Working on Task 2.1
 7f19ded Task 1.2
 93f37ad Task 1.1 updated
-2b4f164 (upstream/main, upstream/HEAD) fixed tests for 
-the not-for-credit tasks; parameter ordering and ensuring consistent line endings.
+2b4f164 (upstream/main, upstream/HEAD) fixed tests for the not-for-credit tasks; parameter ordering and ensuri
+ng consistent line endings.
 ff5004e adding shortcut keys for Inline Variable (Re: Piazza question)
 b545fe2 clarifying extracted method names in README.md 
 a0124c9 fixing starter file
