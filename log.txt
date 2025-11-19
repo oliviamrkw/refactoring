@@ -1,8 +1,11 @@
-02d3ba9 (HEAD -> main, origin/main, origin/HEAD) Working on Task 2.1
+42def6f (HEAD -> main, origin/main, origin/HEAD) Task 2.2
+07fed2b Task 2.1
+02d3ba9 Working on Task 2.1
 7f19ded Task 1.2
 93f37ad Task 1.1 updated
 2b4f164 (upstream/main, upstream/HEAD) fixed tests for the not-for-credit tasks; parameter ordering and ensuring consistent line endings.
-ff5004e adding shortcut keys for Inline Variable (Re: Piazza question)
+ff5004e adding shortcut keys for Inline Variable (Re: P
+iazza question)
 b545fe2 clarifying extracted method names in README.md 
 a0124c9 fixing starter file
 c8d9d38 adding starter files
